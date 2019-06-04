@@ -1,0 +1,29 @@
+{
+  "name": "mlcw-setup-wizard",
+  "version": "0.0.0",
+  "description": "ML CW Setup Wizard",
+  "author": {
+    "name": "Keiichi Lindley",
+    "email": "keiichi.lindley.contractor@macmillan.com"
+  },
+  "scripts": {
+    "start": "node setup.js",
+    "lint": "eslint src/**/*",
+    "test": "xo"
+  },
+  "bin": {
+    "mlcw-setup-wizard": "cli.js"
+  },
+  "main": "cli.js",
+  "keywords": [],
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "meow": "^5.0.0",
+    "update-notifier": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "xo": "^0.24.0"
+  },
+  "license": "MIT"
+}
