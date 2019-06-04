@@ -7,12 +7,6 @@ This module is a setup wizard inspired by yeoman generators. The idea is to prov
 
 Setup friction should be reduced to a minimum as common pain points and configuration peculiarities are identified and solved. Setup recipies (build scripts) can be written and shared for future use when encountering edge cases or tedious deployment procedures that others may encounter in the future.
 
-# Features
-
-**Table of Contents**
-
-[TOCM]
-
 
 ## Install
 
