@@ -1,6 +1,19 @@
 # mlcw-setup-wizard
 > ML CW Setup Wizard
 
+### Overview
+
+This module is a setup wizard inspired by yeoman generators. The idea is to provide a framework for devs to polish the setup process across common platforms and architectures. 
+
+Setup friction should be reduced to a minimum as common pain points and configuration peculiarities are identified and solved. Setup recipies (build scripts) can be written and shared for future use when encountering edge cases or tedious deployment procedures that others may encounter in the future.
+
+# Features
+
+**Table of Contents**
+
+[TOCM]
+
+
 ## Install
 
 ```sh
